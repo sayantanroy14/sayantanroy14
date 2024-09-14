@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on LangChain based project.<br>👯 I'm looking to collaborate on ML projects.<br>🤝 I'm looking for help with Web development.<br>🌱 I'm currently learning Backend development.<br>💬 Ask me about anything anytime.<br>⚡ Fun fact I'm a grammar nazi.
+🔭 I'm currently working on LangChain based project.<br>👯 I'm looking to collaborate on ML projects.<br>🤝 I'm looking for help with Web development.<br>🌱 I'm currently learning Backend development.<br>💬 Ask me about anything anytime.<br>⚡ I love football⚽ and F1🏎
 
 
 ## 🌐 Socials:
