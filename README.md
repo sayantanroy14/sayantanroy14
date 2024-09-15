@@ -19,10 +19,11 @@
 - 🏎 Formula 1
 - 📖 Reading
 
+
 ## Projects
-- 🚀 [Project 1]: Brief description
-- 🌟 [Project 2]: Brief description
-- 🔬 [Project 3]: Brief description
+- 🚀 [Project 1](https://github.com/yourusername/project1): Brief description
+- 🌟 [Project 2](https://github.com/yourusername/project2): Brief description
+- 🔬 [Project 3](https://github.com/yourusername/project3): Brief description
 
 ## Activity
 ![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
@@ -40,9 +41,11 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanroy14&layout=compact&theme=radical)
 
+
 ## Connect With Me
-- 𝕏 X: itsroysayantan
-- 🐙 GitHub: [sayantanroy14](https://github.com/sayantanroy14)
-- 🔗 LinkedIn: [itsroysayantan](https://www.linkedin.com/in/itsroysayantan/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsroysayantan/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itsroysayantan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayantanroy14)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/trumanveidt)
 
 May the Force (and the data) be with you! 🚀🤖
