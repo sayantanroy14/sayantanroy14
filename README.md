@@ -21,10 +21,10 @@
 
 
 ## Projects
-- 🚀 [![Project 1](https://github.com/sayantanroy14/sayantanroy14/blob/main/f1.png)](https://github.com/sayantanroy14/self_driving_car_sim)
+- 🏎 [![Project 1](https://github.com/sayantanroy14/sayantanroy14/blob/main/f1.png)](https://github.com/sayantanroy14/self_driving_car_sim)
 : Built a self-driving car simulation using Python NEAT
-- 🌟 [Project 2](https://github.com/sayantanroy14/handwritten_digit_detection_model/): Built a handwritten digit recognition application using neural-net
-- 🔬 [Project 3](https://github.com/sayantanroy14/RoyGPT/): Built a GPT model locally on Google colab using DialoGPT from HuggingFace
+- ✍🏻 [Project 2](https://github.com/sayantanroy14/handwritten_digit_detection_model/): Built a handwritten digit recognition application using neural-net
+- 🤖 [Project 3](https://github.com/sayantanroy14/RoyGPT/): Built a GPT model locally on Google colab using DialoGPT from HuggingFace
 
 ## Activity
 ![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
