@@ -15,7 +15,7 @@
 - 📊 Tools & Environments: Google Colab, Jupyter Notebook
 
 ## Hobbies
-- :football: Football
+- ⚽ Football
 - 🏎 Formula 1
 - 📖 Reading
 
