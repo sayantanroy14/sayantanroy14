@@ -21,9 +21,9 @@
 
 
 ## Projects
-- 🚀 [Project 1](https://github.com/yourusername/project1): Brief description
-- 🌟 [Project 2](https://github.com/yourusername/project2): Brief description
-- 🔬 [Project 3](https://github.com/yourusername/project3): Brief description
+- 🚀 [Project 1]([https://github.com/yourusername/project1](https://github.com/sayantanroy14/self_driving_car_sim)): Built a self-driving car simulaton using Python NEAT
+- 🌟 [Project 2]([https://github.com/yourusername/project2](https://github.com/sayantanroy14/handwritten_digit_detection_model)): Built a handwritten digit recognition application using a deep learning model trained on the MNIST dataset. This application uses a neural network to recognize digits drawn on a canvas in a web interface.
+- 🔬 [Project 3]([https://github.com/yourusername/project3](https://github.com/sayantanroy14/RoyGPT)): Built a GPT model locally on Google colab using DialoGPT from HuggingFace
 
 ## Activity
 ![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
