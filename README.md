@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Definitely not General Kenobi, but you can call me Sayantan Roy
+# Hello there! 👋 I'm Definitely not General Kenobi, but you can call me Roy
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" alt="Star Wars GIF">
 
