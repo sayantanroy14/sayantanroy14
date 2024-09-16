@@ -12,7 +12,7 @@
 - 💻 Languages: Java, Python, HTML, CSS, JavaScript
 - 🛠 Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras
 - 📚 Learning: Fullstack, ML, Neural-Networks
-- 📊 Tools & Environments: Google Colab, Jupyter Notebook
+- 📊 Tools & Environments: Google Colab, Jupyter Notebook, Visual Studio code, Eclipse
 
 ## Hobbies
 - ⚽ Football
