@@ -2,6 +2,8 @@
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" alt="Star Wars GIF">
 
+[![An image of @sayantanroy14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayantanroy14)](https://holopin.io/@sayantanroy14)
+
 ## About Me
 - 🖥 OS: Windows 11
 - 🐚 Shell: PowerShell
