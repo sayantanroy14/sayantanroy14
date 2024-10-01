@@ -28,6 +28,7 @@
 
 ## Activity
 ![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
+![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
 ![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
 ![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
