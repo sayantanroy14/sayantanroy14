@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Definitely not General Kenobi, but you can call me Roy
 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" alt="Star Wars GIF">
+<img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="500" alt="Star Wars GIF">
 
 ## About Me
 - 🖥 OS: Windows 11
