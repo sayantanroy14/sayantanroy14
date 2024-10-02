@@ -27,7 +27,7 @@
 - 🤖 [![Project 3](https://github.com/sayantanroy14/sayantanroy14/blob/main/dialogpt.png)](https://github.com/sayantanroy14/RoyGPT/): Built a GPT model locally on Google colab using DialoGPT from HuggingFace
 
 ## Activity
-![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
+
 ![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
 ![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
 ![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
