@@ -32,6 +32,28 @@
 ![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
 ![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
+# GitHub Stats
+
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/sayantanroy14?label=Commits)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/sayantanroy14?label=Last%20Commit)
+![Profile Views](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
+
+## Detailed GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantanroy14&show_icons=true&count_private=true)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanroy14&layout=compact)
+
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantanroy14)](https://git.io/streak-stats)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayantanroy14)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - Total Repositories: ![](https://img.shields.io/github/repos/sayantanroy14?label=)
 - Total Stars Earned: ![](https://img.shields.io/github/stars/sayantanroy14?affiliations=OWNER%2CCOLLABORATOR&label=)
