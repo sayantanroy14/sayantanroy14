@@ -32,13 +32,16 @@
 ![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
 ![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
+
 - Total Repositories: ![](https://img.shields.io/github/repos/sayantanroy14?label=)
 - Total Stars Earned: ![](https://img.shields.io/github/stars/sayantanroy14?affiliations=OWNER%2CCOLLABORATOR&label=)
-- Total PRs: ![](https://img.shields.io/github/issues-pr/sayantanroy14/sayantanroy14?label=)
-- Total Issues: ![](https://img.shields.io/github/issues/sayantanroy14/sayantanroy14?label=)
+- Total PRs: ![](https://img.shields.io/search/count?label=&query=is%3Apr+author%3Asayantanroy14)
+- Total Issues: ![](https://img.shields.io/search/count?label=&query=is%3Aissue+author%3Asayantanroy14)
+
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantanroy14&show_icons=true&theme=radical)
+
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanroy14&layout=compact&theme=radical)
