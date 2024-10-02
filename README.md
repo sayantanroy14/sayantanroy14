@@ -32,11 +32,7 @@
 ![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
 ![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
-# GitHub Stats
 
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/sayantanroy14?label=Commits)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/sayantanroy14?label=Last%20Commit)
-![Profile Views](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
 ## Detailed GitHub Statistics
 
