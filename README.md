@@ -55,19 +55,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayantanroy14)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- Total Repositories: ![](https://img.shields.io/github/repos/sayantanroy14?label=)
-- Total Stars Earned: ![](https://img.shields.io/github/stars/sayantanroy14?affiliations=OWNER%2CCOLLABORATOR&label=)
-- Total PRs: ![](https://img.shields.io/search/count?label=&query=is%3Apr+author%3Asayantanroy14)
-- Total Issues: ![](https://img.shields.io/search/count?label=&query=is%3Aissue+author%3Asayantanroy14)
-
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sayantanroy14&show_icons=true&theme=radical)
-
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanroy14&layout=compact&theme=radical)
-
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsroysayantan/)
