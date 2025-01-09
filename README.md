@@ -26,25 +26,17 @@
 - ✍🏻 [![Project 2](https://github.com/sayantanroy14/sayantanroy14/blob/main/mnist.png)](https://github.com/sayantanroy14/handwritten_digit_detection_model/): Built a handwritten digit recognition application using neural-net
 - 🤖 [![Project 3](https://github.com/sayantanroy14/sayantanroy14/blob/main/dialogpt.png)](https://github.com/sayantanroy14/RoyGPT/): Built a GPT model locally on Google colab using DialoGPT from HuggingFace
 
-## Activity
-
-![](https://img.shields.io/github/commit-activity/m/sayantanroy14/sayantanroy14?label=Commits)
-![](https://img.shields.io/github/last-commit/sayantanroy14/sayantanroy14?label=Last%20Commit)
-![](https://komarev.com/ghpvc/?username=sayantanroy14&color=blue)
 
 
 
-## Detailed GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantanroy14&show_icons=true&count_private=true)
+
 
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanroy14&layout=compact)
 
-## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantanroy14)](https://git.io/streak-stats)
 
 ## GitHub Trophies
 
